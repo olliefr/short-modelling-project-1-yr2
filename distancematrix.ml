@@ -12,7 +12,7 @@ open Lwt
 
 (* TODO these be parameters *)
 let base_uri_string = "https://maps.googleapis.com/maps/api/distancematrix/json?"
-let origins = ["Bristol"; "London"; "Cambridge"]
+let origins = ["Bristol"; "London"; "Cambridge UK"]
 let destinations = origins
 
 (* Google API wants parameters separated by pipe rather than a comma.
@@ -28,7 +28,7 @@ let uri = Uri.add_query_params base_uri [("origins", [anti_rfc_fy origins]);
 
 let response = Lwt_main.run (Cohttp_lwt_unix.Client.get uri)
 let body = match response with
-    None -> assert false
+    None -> failwith "error: request failed -- any reason"
   | Some (_,b) -> Lwt_main.run (Cohttp_lwt_body.string_of_body b)
 
 (* TODO json be p-arsed *)
