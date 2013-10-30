@@ -1,3 +1,3 @@
 #!/bin/sh
 
-corebuild -pkg cohttp.lwt distancematrix.native
+corebuild -pkgs cohttp.lwt,yojson distancematrix.native
