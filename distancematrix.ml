@@ -18,30 +18,13 @@ let anti_rfc_fy s = String.concat ~sep:"|" s
 
 let base_uri_string = "https://maps.googleapis.com/maps/api/distancematrix/json?"
 
-(* TODO these be read from file *)
-let towns = ["Bristol"; "Cambridge UK"]
+(* TODO these be read from a file or standard input *)
+(* TODO read from standard input *)
+(* TODO if --input file is given, read from file *)
+let towns = ["Bristol"; "Cambridge UK"; "Edinburgh"; "London"]
 
 (* FIXME stupid limitation on size yet good enough for our project *)
 let () = if List.length towns >= 100 then failwith "can only linearize less than 100 elements"
-
-type result = {
-  destination : string list;
-  status : string list;
-  distance : int list;
-  duration : int list
-}
-
-(* FIXME how to create an empty instance of result? *)
-(*
-let result = 
-  let process_town t (result, towns) = (result, towns)
-  in 
-  List.fold_right towns ~f:process_town ~init:({destination=[]; status=[]; distance=[]; duration=[]}, towns)
-*)
-(*
-let origins = ["Bristol"]
-let destinations = ["Bristol"; "London"; "Cambridge UK"; "Edinburgh"]
-*)
 
 (* creates the uri to query distances from town t to list of towns ts *)
 let create_uri_for t ts = 
@@ -57,7 +40,7 @@ let run_matrix_query uri =
       None -> failwith "error: request failed -- any reason"
     | Some (_,b) -> Lwt_main.run (Cohttp_lwt_body.string_of_body b)
 
-(* TODO should this not be in a separate file *)
+(* TODO should JSON related code not be in a separate file *)
 
 let pretty_print_json json = Yojson.Basic.pretty_to_channel Out_channel.stdout json
 
@@ -102,13 +85,22 @@ List.iteri data
   ~f:(fun k x -> printf "%s,%i,%i,\"%s\"\n" x.status x.distance x.duration (List.nth_exn destination_addresses k))
 *)
 
+type outcome = {
+  destination : string;
+  result : element
+}
 
-let uri = (create_uri_for "Bristol" towns) in
-let response = run_matrix_query uri in
-let json = bootstrap_json_from response in
-let (status, result) = process_response json in
-printf "-- Status: %s\n" status;
-printf "Status,Distance(m),Duration(s),Destination\n";
-List.iteri result 
-  ~f:(fun k x -> printf "%s,%i,%i,\"%s\"\n" x.status x.distance x.duration (List.nth_exn towns k))
+(* TODO take breaks every 100 elements, or the requests will fail *)
+let outcome = 
+  let process_town t (result, towns) = 
+    let uri = (create_uri_for t towns) in
+    let response = run_matrix_query uri in
+    let json = bootstrap_json_from response in
+    let (status, r) = process_response json in
+    ((t, r)::result, towns)
+  in 
+  List.fold_right towns ~f:process_town ~init:([], towns)
 
+(* TODO output to the standard output *)
+(* TODO if --output file is given, write to the file *)
+(* TODO but what is the desired format for the output? *)
