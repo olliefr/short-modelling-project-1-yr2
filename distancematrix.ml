@@ -126,20 +126,21 @@ let () = if List.length nodes >= 100 then failwith "can only linearize less than
 (* TODO take breaks every 100 elements, or the requests will fail *)
 let outcome = 
   let nodes = read_input_stdin in
-  let _ =  
-    eprintf "-- read input, N = %i\n" (List.length nodes);
-    eprintf "-- downloading data for:\n%!"
-  in
-  let get_distances t (result, nodes) = 
-    let _ = eprintf "   -- %s... %!" t in
-    let uri = (create_uri_for t nodes) in
-    let response = run_matrix_query uri in
-    let json = bootstrap_json_from response in
-    let (status, r) = process_response json in
-    let _ = eprintf "%s\n%!" status in
-    ((t, r)::result, nodes)
-  in 
-  List.fold_right nodes ~f:get_distances ~init:([], nodes)
+  let _ = eprintf "-- read input, N = %i\n" (List.length nodes) in
+  let _ = if List.length nodes >= 100 then failwith "can only linearize less than 100 elements" in
+  let _ = eprintf "-- downloading data for:\n%!" in 
+  let rec get_distances t (result, nodes, processed) = 
+    if processed + (List.length nodes) >= 100 
+    then begin Unix.sleep 10; get_distances t (result, nodes, 0) end 
+    else
+      let _ = eprintf "   -- %s... %!" t in
+      let uri = (create_uri_for t nodes) in
+      let response = run_matrix_query uri in
+      let json = bootstrap_json_from response in
+      let (status, r) = process_response json in
+      let _ = eprintf "%s\n%!" status in
+      ((t, r)::result, nodes, processed)
+ in List.fold_right nodes ~f:get_distances ~init:([], nodes, 0)
 
 (* TODO output to the standard output *)
 (* TODO if --output file is given, write to the file *)
