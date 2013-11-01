@@ -43,12 +43,15 @@ name
 |> In_channel.input_lines
 *)
 
+(* FIXME this is a hack; should be done externally *)
+let universify s = String.concat ~sep:" " [s; "University"]
+
 (* FIXME should this not be merged with read_input_f somehow? *)
 (* we consider any non-blank line a valid input and prune any other input *)
 let read_input_stdin = 
   In_channel.input_lines stdin
   |> prune
-
+  |> List.map ~f:universify
 
 (* creates the uri to query distances from town t to list of nodes ts *)
 let create_uri_for t ts = 
@@ -85,15 +88,15 @@ let json_element e = Yojson.Basic.Util.({
 
 let bootstrap_json_from body = Yojson.Basic.from_string body
 
-(* TODO json toplevel status must be "OK", otherwise give a warning *)
-(* TODO json element status must be "OK", otherwise give a warning *)
-(* FIXME this p-arser expects the matrix to be a row vector. works for me, but not clever *)
-
 let origin_from_json json =  Yojson.Basic.Util.(
   match List.hd (json |> member "origin_addresses" |> to_list |> filter_string) with
       None -> "???"
     | Some x -> x
 )
+
+(* TODO json toplevel status must be "OK", otherwise give a warning *)
+(* TODO json element status must be "OK", otherwise give a warning *)
+(* FIXME this p-arser expects the matrix to be a row vector. works for me, but not clever *)
 
 let process_response json = 
   let open Yojson.Basic.Util in
@@ -114,6 +117,9 @@ type outcome = {
 }
 
 (* FIXME stupid limitation of 100 elements per 10 sec; yet good enough for our project *)
+let limit = 100  (* elements = origins * destinations *)
+let timeout = 10 (* seconds *)
+
 let outcome = 
   let nodes = read_input_stdin in
   let _ = begin
@@ -122,8 +128,8 @@ let outcome =
     eprintf "-- downloading data for:\n%!"
   end in 
   let rec get_distances t (result, nodes, processed) = 
-    if processed + (List.length nodes) >= 100 
-    then begin Unix.sleep 10; get_distances t (result, nodes, 0) end 
+    if processed + (List.length nodes) >= limit
+    then begin Unix.sleep timeout; get_distances t (result, nodes, 0) end 
     else
       let _ = eprintf "   -- %s... %!" t in
       let uri = (create_uri_for t nodes) in
@@ -139,7 +145,7 @@ let _ = eprintf "-- download complete\n%!"
 (* TODO output to the standard output *)
 let _ = List.iter outcome ~f:(fun (origin,destinations) -> 
   List.iter destinations 
-    ~f:(fun destination -> printf "%s|%s|%s|%i|%i\n%!" 
+    ~f:(fun destination -> if origin <> destination.name then printf "%s|%s|%s|%i|%i\n%!" 
       destination.status 
       origin 
       destination.name
