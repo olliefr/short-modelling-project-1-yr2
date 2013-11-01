@@ -21,12 +21,30 @@ let base_uri_string = "https://maps.googleapis.com/maps/api/distancematrix/json?
 (* TODO these be read from a file or standard input *)
 (* TODO read from standard input *)
 (* TODO if --input file is given, read from file *)
-let towns = ["Bristol"; "Cambridge UK"; "Edinburgh"; "London"]
 
-(* FIXME stupid limitation on size yet good enough for our project *)
-let () = if List.length towns >= 100 then failwith "can only linearize less than 100 elements"
 
-(* creates the uri to query distances from town t to list of towns ts *)
+(* prune any whitespace-only or empty lines from the input *)
+let prune list = 
+  list
+  |> List.map ~f:String.strip
+  |> List.filter ~f:(fun x -> not (String.is_empty x))
+
+(* FIXME error be here if file not found *)
+(* TODO use with_file instead *)
+let read_input_f name =
+  let file = In_channel.create name in
+  let nodes = In_channel.input_lines file in
+  In_channel.close file;
+  nodes
+
+(* FIXME should this not be merged with read_input_f somehow? *)
+(* we consider any non-blank line a valid input and prune any other input *)
+let read_input_stdin = 
+  In_channel.input_lines stdin
+  |> prune
+
+
+(* creates the uri to query distances from town t to list of nodes ts *)
 let create_uri_for t ts = 
   let base_uri = Uri.of_string base_uri_string in
   Uri.add_query_params base_uri [("origins", [t]);
@@ -90,16 +108,32 @@ type outcome = {
   result : element
 }
 
+
+(* TODO report progress along the way *)
+
+(* status report after reading the nodes *)
+(*
+let _ = 
+  eprintf "--input complete, N = %i\n" (List.length inp);
+  eprintf "-- attempting network connection now\n%!"
+*)
+
+(* FIXME stupid limitation on size yet good enough for our project *)
+(*
+let () = if List.length nodes >= 100 then failwith "can only linearize less than 100 elements"
+*)
+
 (* TODO take breaks every 100 elements, or the requests will fail *)
 let outcome = 
-  let process_town t (result, towns) = 
-    let uri = (create_uri_for t towns) in
+  let nodes = read_input_stdin in
+  let get_distances t (result, nodes) = 
+    let uri = (create_uri_for t nodes) in
     let response = run_matrix_query uri in
     let json = bootstrap_json_from response in
     let (status, r) = process_response json in
-    ((t, r)::result, towns)
+    ((t, r)::result, nodes)
   in 
-  List.fold_right towns ~f:process_town ~init:([], towns)
+  List.fold_right nodes ~f:get_distances ~init:([], nodes)
 
 (* TODO output to the standard output *)
 (* TODO if --output file is given, write to the file *)
