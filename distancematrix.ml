@@ -35,20 +35,21 @@ let choose_input_channel ifile =
 let choose_output_channel ofile = 
   match ofile with
       "-" -> Out_channel.stdout
-    | _   -> Out_channel.stdout
+    | _   -> Out_channel.create ofile (* FIXME now i have not to forget to close it; better options? *)
 
 (* TODO what is the desired format for the output? *)
-(* FIXME how can i close oc if i don't know it it's stdout? *)
 let print_distance_matrix distance_matrix oc = 
   List.iter distance_matrix ~f:(fun y ->
     List.iter y ~f:(fun x -> match x with 
 	Error err -> fprintf oc "error %s\n" err
-      | Ok x -> fprintf oc "%s|%s|%i|%i\n" x.origin x.destination x.distance x.duration)
+      | Ok x -> if x.origin <> x.destination 
+	        then fprintf oc "%s|%s|%i|%i\n" x.origin x.destination x.distance x.duration)
   );
-  Out_channel.flush oc
+  Out_channel.flush oc;
+  if oc <> Out_channel.stdout && oc <> Out_channel.stdout then Out_channel.close oc
+(* FIXME is there a better way to ignore 'special' output channels? *)
 
 (** End of input/output related functions *)
-
 
 (** Uri construction related functions *)
 (* Google API wants parameters separated by pipe rather than a comma.
@@ -66,8 +67,6 @@ let create_uri_for t locations =
 				 ("sensor", ["false"])]
 
 (** End of uri construction related functions *)
-
-
 
 
 (** HTTP client functions *)
@@ -119,7 +118,7 @@ let locations_from_json s origin destinations =
 (* TODO should these be optional command line parameters? *)
 (* FIXME stupid limitation of 100 elements per 10 sec; yet good enough for our project *)
 let limit = 100  (* elements = origins * destinations *)
-let timeout = 10 (* seconds *)
+let timeout = 12 (* seconds *)
 
 (* runs a query for one location *)
 let query_location location locations =
@@ -150,7 +149,6 @@ let download_all_distances ifile ofile () =
   let () = if number_of_locations >= limit then failwith 
       (sprintf "can only download the data for 100 or fewer locations, you have %i" number_of_locations) in
   let () = eprintf "-- read %i node%s\n%!" number_of_locations (if number_of_locations = 1 then "" else "s") in
-  (*  List.iter locations ~f:(fun x -> eprintf "-- Location: %s\n%!" x) *)
   let distance_matrix = List.map locations ~f:(fun location -> query_location_with_retry location locations) in
   print_distance_matrix distance_matrix oc
     
