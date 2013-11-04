@@ -1,0 +1,1406 @@
+University of Cambridge|University of Oxford|158772|7042
+University of Cambridge|University College London|100805|4945
+University of Cambridge|Imperial College|102808|5032
+University of Cambridge|King's College, University of London|97256|4429
+University of Cambridge|London School of Economics and Political Science|95293|4681
+University of Cambridge|Royal Holloway, University of London|118074|5504
+University of Cambridge|Queen Mary, University of London|88382|3739
+University of Cambridge|University of Edinburgh|564109|21764
+University of Cambridge|University of Glasgow|569083|20600
+University of Cambridge|University of St Andrews|664852|25302
+University of Cambridge|Heriot-Watt University|573279|21777
+University of Cambridge|University of Strathclyde|566096|20375
+University of Cambridge|University of Bristol|269087|10311
+University of Cambridge|University of Manchester|289193|11215
+University of Cambridge|University of Warwick|136763|5937
+University of Cambridge|University of Sheffield|212076|8364
+University of Cambridge|University of Nottingham|146570|6470
+University of Cambridge|University of Southampton|205049|8430
+University of Cambridge|University of Durham|344195|12649
+University of Cambridge|University of Leeds|250390|9941
+University of Cambridge|University of York|253523|9613
+University of Cambridge|Newcastle University|370368|13654
+University of Cambridge|University of Liverpool|306882|11440
+University of Cambridge|Cardiff University|321172|12247
+University of Cambridge|Lancaster University|353014|12791
+University of Cambridge|University of Exeter|394665|14854
+University of Cambridge|University of Bath|264306|10495
+University of Cambridge|University of Sussex|190065|7534
+University of Cambridge|University of Leicester|111080|5549
+University of Cambridge|University of Reading|145610|6509
+University of Cambridge|University of Dundee|676432|24462
+University of Cambridge|University of East Anglia|98609|4726
+University of Cambridge|University of Surrey|143229|6228
+University of Cambridge|Coventry University|127356|5664
+University of Cambridge|Aston University|158011|6409
+University of Cambridge|University of Kent|122332|4931
+University of Cambridge|Loughborough University|149578|6144
+University of Oxford|University of Cambridge|157013|7029
+University of Oxford|University College London|89766|4456
+University of Oxford|Imperial College|87994|4292
+University of Oxford|King's College, University of London|95078|5147
+University of Oxford|London School of Economics and Political Science|91209|4573
+University of Oxford|Royal Holloway, University of London|80189|3600
+University of Oxford|Queen Mary, University of London|97123|5242
+University of Oxford|University of Edinburgh|584711|21168
+University of Oxford|University of Glasgow|584495|19770
+University of Oxford|University of St Andrews|680264|24472
+University of Oxford|Heriot-Watt University|586867|20890
+University of Oxford|University of Strathclyde|581508|19544
+University of Oxford|University of Bristol|118182|5381
+University of Oxford|University of Manchester|254389|9595
+University of Oxford|University of Warwick|88584|3685
+University of Oxford|University of Sheffield|227058|8921
+University of Oxford|University of Nottingham|159740|6856
+University of Oxford|University of Southampton|106100|4489
+University of Oxford|University of Durham|385934|14148
+University of Oxford|University of Leeds|279797|11013
+University of Oxford|University of York|295263|11112
+University of Oxford|Newcastle University|412107|15153
+University of Oxford|University of Liverpool|272079|9821
+University of Oxford|Cardiff University|170266|7317
+University of Oxford|Lancaster University|318211|11172
+University of Oxford|University of Exeter|243760|9924
+University of Oxford|University of Bath|113400|5565
+University of Oxford|University of Sussex|172669|6920
+University of Oxford|University of Leicester|131852|5493
+University of Oxford|University of Reading|71168|3274
+University of Oxford|University of Dundee|691844|23631
+University of Oxford|University of East Anglia|270482|10751
+University of Oxford|University of Surrey|105344|4324
+University of Oxford|Coventry University|92440|3751
+University of Oxford|Aston University|122502|4753
+University of Oxford|University of Kent|179659|7286
+University of Oxford|Loughborough University|138807|5876
+University College London|University of Cambridge|92799|4668
+University College London|University of Oxford|89793|4383
+University College London|Imperial College|5630|870
+University College London|King's College, University of London|5539|894
+University College London|London School of Economics and Political Science|1670|320
+University College London|Royal Holloway, University of London|40369|2718
+University College London|Queen Mary, University of London|7915|1142
+University College London|University of Edinburgh|663855|24035
+University College London|University of Glasgow|663639|22637
+University College London|University of St Andrews|759409|27339
+University College London|Heriot-Watt University|666011|23756
+University College London|University of Strathclyde|660652|22411
+University College London|University of Bristol|191604|7518
+University College London|University of Manchester|333534|12462
+University College London|University of Warwick|167729|6551
+University College London|University of Sheffield|268844|10443
+University College London|University of Nottingham|201525|8378
+University College London|University of Southampton|127344|5644
+University College London|University of Durham|427720|15670
+University College London|University of Leeds|321582|12536
+University College London|University of York|337048|12634
+University College London|Newcastle University|453892|16676
+University College London|University of Liverpool|351224|12688
+University College London|Cardiff University|243689|9454
+University College London|Lancaster University|397356|14038
+University College London|University of Exeter|317182|12061
+University College London|University of Bath|186823|7702
+University College London|University of Sussex|87942|5449
+University College London|University of Leicester|164296|7148
+University College London|University of Reading|68126|3716
+University College London|University of Dundee|770988|26498
+University College London|University of East Anglia|179120|8136
+University College London|University of Surrey|52889|3241
+University College London|Coventry University|171585|6617
+University College London|Aston University|201646|7620
+University College London|University of Kent|58027|3678
+University College London|Loughborough University|180592|7399
+Imperial College|University of Cambridge|103097|4993
+Imperial College|University of Oxford|88016|4214
+Imperial College|University College London|5218|858
+Imperial College|King's College, University of London|7276|1043
+Imperial College|London School of Economics and Political Science|6026|839
+Imperial College|Royal Holloway, University of London|35523|2054
+Imperial College|Queen Mary, University of London|11466|1327
+Imperial College|University of Edinburgh|662078|23866
+Imperial College|University of Glasgow|661862|22468
+Imperial College|University of St Andrews|757632|27170
+Imperial College|Heriot-Watt University|664234|23587
+Imperial College|University of Strathclyde|658875|22242
+Imperial College|University of Bristol|186758|6853
+Imperial College|University of Manchester|331757|12293
+Imperial College|University of Warwick|165952|6382
+Imperial College|University of Sheffield|268309|10346
+Imperial College|University of Nottingham|200990|8281
+Imperial College|University of Southampton|122498|4979
+Imperial College|University of Durham|427185|15573
+Imperial College|University of Leeds|321048|12438
+Imperial College|University of York|336513|12537
+Imperial College|Newcastle University|453357|16578
+Imperial College|University of Liverpool|349447|12518
+Imperial College|Cardiff University|238843|8789
+Imperial College|Lancaster University|395579|13869
+Imperial College|University of Exeter|312336|11396
+Imperial College|University of Bath|181977|7037
+Imperial College|University of Sussex|87227|5215
+Imperial College|University of Leicester|163761|7050
+Imperial College|University of Reading|63280|3051
+Imperial College|University of Dundee|769211|26329
+Imperial College|University of East Anglia|189418|8461
+Imperial College|University of Surrey|47401|2645
+Imperial College|Coventry University|169808|6448
+Imperial College|Aston University|199870|7451
+Imperial College|University of Kent|60438|3787
+Imperial College|Loughborough University|180057|7301
+King's College, University of London|University of Cambridge|97131|4413
+King's College, University of London|University of Oxford|94389|4989
+King's College, University of London|University College London|5434|865
+King's College, University of London|Imperial College|7546|1100
+King's College, University of London|London School of Economics and Political Science|3781|675
+King's College, University of London|Royal Holloway, University of London|42788|2909
+King's College, University of London|Queen Mary, University of London|4990|764
+King's College, University of London|University of Edinburgh|653241|24493
+King's College, University of London|University of Glasgow|653025|23095
+King's College, University of London|University of St Andrews|748794|27797
+King's College, University of London|Heriot-Watt University|655397|24215
+King's College, University of London|University of Strathclyde|650038|22869
+King's College, University of London|University of Bristol|194022|7709
+King's College, University of London|University of Manchester|322920|12920
+King's College, University of London|University of Warwick|172325|7158
+King's College, University of London|University of Sheffield|271716|10843
+King's College, University of London|University of Nottingham|204398|8778
+King's College, University of London|University of Southampton|129762|5835
+King's College, University of London|University of Durham|437496|16101
+King's College, University of London|University of Leeds|324455|12935
+King's College, University of London|University of York|346824|13065
+King's College, University of London|Newcastle University|463668|17107
+King's College, University of London|University of Liverpool|340610|13146
+King's College, University of London|Cardiff University|246107|9645
+King's College, University of London|Lancaster University|386742|14497
+King's College, University of London|University of Exeter|319600|12252
+King's College, University of London|University of Bath|189241|7893
+King's College, University of London|University of Sussex|85494|5028
+King's College, University of London|University of Leicester|167169|7548
+King's College, University of London|University of Reading|70545|3907
+King's College, University of London|University of Dundee|760374|26956
+King's College, University of London|University of East Anglia|183452|7881
+King's College, University of London|University of Surrey|52265|3068
+King's College, University of London|Coventry University|176181|7223
+King's College, University of London|Aston University|191739|8115
+King's College, University of London|University of Kent|52244|3017
+King's College, University of London|Loughborough University|183464|7799
+London School of Economics and Political Science|University of Cambridge|99211|4662
+London School of Economics and Political Science|University of Oxford|91937|4647
+London School of Economics and Political Science|University College London|2982|523
+London School of Economics and Political Science|Imperial College|5952|873
+London School of Economics and Political Science|King's College, University of London|4625|713
+London School of Economics and Political Science|Royal Holloway, University of London|40691|2722
+London School of Economics and Political Science|Queen Mary, University of London|6768|1052
+London School of Economics and Political Science|University of Edinburgh|666000|24299
+London School of Economics and Political Science|University of Glasgow|665784|22901
+London School of Economics and Political Science|University of St Andrews|761553|27603
+London School of Economics and Political Science|Heriot-Watt University|668156|24020
+London School of Economics and Political Science|University of Strathclyde|662797|22675
+London School of Economics and Political Science|University of Bristol|191925|7522
+London School of Economics and Political Science|University of Manchester|335679|12726
+London School of Economics and Political Science|University of Warwick|169873|6815
+London School of Economics and Political Science|University of Sheffield|270224|10692
+London School of Economics and Political Science|University of Nottingham|202905|8627
+London School of Economics and Political Science|University of Southampton|127665|5648
+London School of Economics and Political Science|University of Durham|429100|15919
+London School of Economics and Political Science|University of Leeds|322962|12785
+London School of Economics and Political Science|University of York|338428|12883
+London School of Economics and Political Science|Newcastle University|455272|16925
+London School of Economics and Political Science|University of Liverpool|353369|12951
+London School of Economics and Political Science|Cardiff University|244010|9458
+London School of Economics and Political Science|Lancaster University|399501|14302
+London School of Economics and Political Science|University of Exeter|317503|12065
+London School of Economics and Political Science|University of Bath|187144|7705
+London School of Economics and Political Science|University of Sussex|87461|5318
+London School of Economics and Political Science|University of Leicester|165676|7397
+London School of Economics and Political Science|University of Reading|68448|3719
+London School of Economics and Political Science|University of Dundee|773133|26762
+London School of Economics and Political Science|University of East Anglia|185532|8130
+London School of Economics and Political Science|University of Surrey|53211|3245
+London School of Economics and Political Science|Coventry University|173729|6881
+London School of Economics and Political Science|Aston University|190246|7964
+London School of Economics and Political Science|University of Kent|56552|3455
+London School of Economics and Political Science|Loughborough University|181972|7648
+Royal Holloway, University of London|University of Cambridge|117445|5482
+Royal Holloway, University of London|University of Oxford|79464|3527
+Royal Holloway, University of London|University College London|39589|2862
+Royal Holloway, University of London|Imperial College|35361|2176
+Royal Holloway, University of London|King's College, University of London|41647|3046
+Royal Holloway, University of London|London School of Economics and Political Science|40397|2842
+Royal Holloway, University of London|Queen Mary, University of London|45837|3331
+Royal Holloway, University of London|University of Edinburgh|653527|23178
+Royal Holloway, University of London|University of Glasgow|653311|21780
+Royal Holloway, University of London|University of St Andrews|749080|26482
+Royal Holloway, University of London|Heriot-Watt University|655683|22900
+Royal Holloway, University of London|University of Strathclyde|650324|21554
+Royal Holloway, University of London|University of Bristol|159419|6198
+Royal Holloway, University of London|University of Manchester|323206|11605
+Royal Holloway, University of London|University of Warwick|157400|5695
+Royal Holloway, University of London|University of Sheffield|277669|10015
+Royal Holloway, University of London|University of Nottingham|210351|7950
+Royal Holloway, University of London|University of Southampton|88094|3764
+Royal Holloway, University of London|University of Durham|436545|15242
+Royal Holloway, University of London|University of Leeds|330408|12108
+Royal Holloway, University of London|University of York|345873|12206
+Royal Holloway, University of London|Newcastle University|462718|16248
+Royal Holloway, University of London|University of Liverpool|340896|11831
+Royal Holloway, University of London|Cardiff University|211503|8134
+Royal Holloway, University of London|Lancaster University|387028|13182
+Royal Holloway, University of London|University of Exeter|242758|10671
+Royal Holloway, University of London|University of Bath|154638|6381
+Royal Holloway, University of London|University of Sussex|98914|4276
+Royal Holloway, University of London|University of Leicester|173122|6720
+Royal Holloway, University of London|University of Reading|36031|2388
+Royal Holloway, University of London|University of Dundee|760660|25641
+Royal Holloway, University of London|University of East Anglia|230914|9204
+Royal Holloway, University of London|University of Surrey|31589|1680
+Royal Holloway, University of London|Coventry University|161256|5760
+Royal Holloway, University of London|Aston University|191318|6763
+Royal Holloway, University of London|University of Kent|106025|4724
+Royal Holloway, University of London|Loughborough University|189417|6971
+Queen Mary, University of London|University of Cambridge|88109|3704
+Queen Mary, University of London|University of Oxford|97638|5273
+Queen Mary, University of London|University College London|8146|1256
+Queen Mary, University of London|Imperial College|11472|1466
+Queen Mary, University of London|King's College, University of London|5619|780
+Queen Mary, University of London|London School of Economics and Political Science|6923|1001
+Queen Mary, University of London|Royal Holloway, University of London|46211|3314
+Queen Mary, University of London|University of Edinburgh|648388|24507
+Queen Mary, University of London|University of Glasgow|654024|23160
+Queen Mary, University of London|University of St Andrews|749793|27862
+Queen Mary, University of London|Heriot-Watt University|656396|24279
+Queen Mary, University of London|University of Strathclyde|651037|22934
+Queen Mary, University of London|University of Bristol|197445|8114
+Queen Mary, University of London|University of Manchester|323919|12985
+Queen Mary, University of London|University of Warwick|159879|7315
+Queen Mary, University of London|University of Sheffield|272715|10908
+Queen Mary, University of London|University of Nottingham|205396|8843
+Queen Mary, University of London|University of Southampton|133186|6240
+Queen Mary, University of London|University of Durham|428474|15392
+Queen Mary, University of London|University of Leeds|334669|12684
+Queen Mary, University of London|University of York|337802|12356
+Queen Mary, University of London|Newcastle University|454646|16397
+Queen Mary, University of London|University of Liverpool|341609|13211
+Queen Mary, University of London|Cardiff University|249530|10050
+Queen Mary, University of London|Lancaster University|387741|14562
+Queen Mary, University of London|University of Exeter|323024|12657
+Queen Mary, University of London|University of Bath|192665|8298
+Queen Mary, University of London|University of Sussex|118706|5263
+Queen Mary, University of London|University of Leicester|168168|7613
+Queen Mary, University of London|University of Reading|73968|4312
+Queen Mary, University of London|University of Dundee|761372|27021
+Queen Mary, University of London|University of East Anglia|174430|7172
+Queen Mary, University of London|University of Surrey|56905|3683
+Queen Mary, University of London|Coventry University|157569|7318
+Queen Mary, University of London|Aston University|192738|8179
+Queen Mary, University of London|University of Kent|51000|2615
+Queen Mary, University of London|Loughborough University|184463|7863
+University of Edinburgh|University of Cambridge|566049|21868
+University of Edinburgh|University of Oxford|584625|21146
+University of Edinburgh|University College London|649807|23963
+University of Edinburgh|Imperial College|661897|23932
+University of Edinburgh|King's College, University of London|653969|24656
+University of Edinburgh|London School of Economics and Political Science|651503|24094
+University of Edinburgh|Royal Holloway, University of London|654091|23240
+University of Edinburgh|Queen Mary, University of London|654367|24561
+University of Edinburgh|University of Glasgow|76450|3778
+University of Edinburgh|University of St Andrews|82037|5031
+University of Edinburgh|Heriot-Watt University|11002|1333
+University of Edinburgh|University of Strathclyde|73464|3552
+University of Edinburgh|University of Bristol|599964|21668
+University of Edinburgh|University of Manchester|350501|13322
+University of Edinburgh|University of Warwick|498283|18323
+University of Edinburgh|University of Sheffield|402697|16318
+University of Edinburgh|University of Nottingham|453305|17926
+University of Edinburgh|University of Southampton|688583|24757
+University of Edinburgh|University of Durham|225972|10070
+University of Edinburgh|University of Leeds|343888|14557
+University of Edinburgh|University of York|328097|14418
+University of Edinburgh|Newcastle University|192237|8966
+University of Edinburgh|University of Liverpool|370132|13989
+University of Edinburgh|Cardiff University|642303|23131
+University of Edinburgh|Lancaster University|274289|10715
+University of Edinburgh|University of Exeter|715905|25744
+University of Edinburgh|University of Bath|619798|22668
+University of Edinburgh|University of Sussex|746571|26560
+University of Edinburgh|University of Leicester|506547|19313
+University of Edinburgh|University of Reading|653728|23409
+University of Edinburgh|University of Dundee|98627|4624
+University of Edinburgh|University of East Anglia|598700|25134
+University of Edinburgh|University of Surrey|679246|23963
+University of Edinburgh|Coventry University|501237|18444
+University of Edinburgh|Aston University|469100|17377
+University of Edinburgh|University of Kent|682812|25900
+University of Edinburgh|Loughborough University|482068|18262
+University of Glasgow|University of Cambridge|570830|20584
+University of Glasgow|University of Oxford|584461|19789
+University of Glasgow|University College London|649644|22606
+University of Glasgow|Imperial College|661733|22575
+University of Glasgow|King's College, University of London|653805|23299
+University of Glasgow|London School of Economics and Political Science|651339|22737
+University of Glasgow|Royal Holloway, University of London|653928|21883
+University of Glasgow|Queen Mary, University of London|654204|23204
+University of Glasgow|University of Edinburgh|76167|3778
+University of Glasgow|University of St Andrews|119345|6146
+University of Glasgow|Heriot-Watt University|69495|2999
+University of Glasgow|University of Strathclyde|4110|628
+University of Glasgow|University of Bristol|599800|20311
+University of Glasgow|University of Manchester|350338|11965
+University of Glasgow|University of Warwick|498119|16966
+University of Glasgow|University of Sheffield|407477|15034
+University of Glasgow|University of Nottingham|458086|16642
+University of Glasgow|University of Southampton|688419|23400
+University of Glasgow|University of Durham|273883|10760
+University of Glasgow|University of Leeds|348668|13273
+University of Glasgow|University of York|343988|13153
+University of Glasgow|Newcastle University|245594|9815
+University of Glasgow|University of Liverpool|369969|12632
+University of Glasgow|Cardiff University|642140|21774
+University of Glasgow|Lancaster University|274125|9358
+University of Glasgow|University of Exeter|715742|24387
+University of Glasgow|University of Bath|619635|21311
+University of Glasgow|University of Sussex|746407|25203
+University of Glasgow|University of Leicester|506384|17956
+University of Glasgow|University of Reading|653564|22052
+University of Glasgow|University of Dundee|130924|5305
+University of Glasgow|University of East Anglia|603480|23851
+University of Glasgow|University of Surrey|679083|22606
+University of Glasgow|Coventry University|501073|17087
+University of Glasgow|Aston University|468937|16020
+University of Glasgow|University of Kent|714023|24552
+University of Glasgow|Loughborough University|481904|16905
+University of St Andrews|University of Cambridge|669618|25216
+University of St Andrews|University of Oxford|683250|24421
+University of St Andrews|University College London|748432|27238
+University of St Andrews|Imperial College|760522|27207
+University of St Andrews|King's College, University of London|752594|27931
+University of St Andrews|London School of Economics and Political Science|750127|27370
+University of St Andrews|Royal Holloway, University of London|752716|26515
+University of St Andrews|Queen Mary, University of London|752992|27836
+University of St Andrews|University of Edinburgh|80251|4956
+University of St Andrews|University of Glasgow|120488|6273
+University of St Andrews|Heriot-Watt University|82547|4527
+University of St Andrews|University of Strathclyde|117502|6047
+University of St Andrews|University of Bristol|698589|24944
+University of St Andrews|University of Manchester|449126|16598
+University of St Andrews|University of Warwick|596908|21599
+University of St Andrews|University of Sheffield|506265|19666
+University of St Andrews|University of Nottingham|556874|21275
+University of St Andrews|University of Southampton|787207|28032
+University of St Andrews|University of Durham|313984|14007
+University of St Andrews|University of Leeds|447457|17905
+University of St Andrews|University of York|442776|17785
+University of St Andrews|Newcastle University|280249|12903
+University of St Andrews|University of Liverpool|468757|17264
+University of St Andrews|Cardiff University|740928|26407
+University of St Andrews|Lancaster University|372913|13990
+University of St Andrews|University of Exeter|814530|29020
+University of St Andrews|University of Bath|718423|25943
+University of St Andrews|University of Sussex|845196|29835
+University of St Andrews|University of Leicester|605172|22589
+University of St Andrews|University of Reading|752353|26684
+University of St Andrews|University of Dundee|21383|1545
+University of St Andrews|University of East Anglia|702268|28483
+University of St Andrews|University of Surrey|777871|27239
+University of St Andrews|Coventry University|599862|21719
+University of St Andrews|Aston University|567725|20653
+University of St Andrews|University of Kent|812811|29184
+University of St Andrews|Loughborough University|580692|21537
+Heriot-Watt University|University of Cambridge|575553|21841
+Heriot-Watt University|University of Oxford|586941|20951
+Heriot-Watt University|University College London|652123|23768
+Heriot-Watt University|Imperial College|664212|23737
+Heriot-Watt University|King's College, University of London|656284|24461
+Heriot-Watt University|London School of Economics and Political Science|653818|23900
+Heriot-Watt University|Royal Holloway, University of London|656407|23045
+Heriot-Watt University|Queen Mary, University of London|656683|24366
+Heriot-Watt University|University of Edinburgh|10689|1314
+Heriot-Watt University|University of Glasgow|69105|2942
+Heriot-Watt University|University of St Andrews|80814|4583
+Heriot-Watt University|University of Strathclyde|66118|2717
+Heriot-Watt University|University of Bristol|602280|21474
+Heriot-Watt University|University of Manchester|352817|13128
+Heriot-Watt University|University of Warwick|500599|18129
+Heriot-Watt University|University of Sheffield|412200|16291
+Heriot-Watt University|University of Nottingham|462809|17899
+Heriot-Watt University|University of Southampton|690898|24562
+Heriot-Watt University|University of Durham|235476|10043
+Heriot-Watt University|University of Leeds|353392|14530
+Heriot-Watt University|University of York|337601|14391
+Heriot-Watt University|Newcastle University|201740|8939
+Heriot-Watt University|University of Liverpool|372448|13794
+Heriot-Watt University|Cardiff University|644619|22937
+Heriot-Watt University|Lancaster University|276604|10520
+Heriot-Watt University|University of Exeter|718221|25550
+Heriot-Watt University|University of Bath|622114|22473
+Heriot-Watt University|University of Sussex|748886|26365
+Heriot-Watt University|University of Leicester|508863|19119
+Heriot-Watt University|University of Reading|656044|23214
+Heriot-Watt University|University of Dundee|97404|4176
+Heriot-Watt University|University of East Anglia|608203|25108
+Heriot-Watt University|University of Surrey|681562|23769
+Heriot-Watt University|Coventry University|503552|18249
+Heriot-Watt University|Aston University|471416|17183
+Heriot-Watt University|University of Kent|692316|25873
+Heriot-Watt University|Loughborough University|484383|18067
+University of Strathclyde|University of Cambridge|567958|20365
+University of Strathclyde|University of Oxford|581589|19571
+University of Strathclyde|University College London|646771|22387
+University of Strathclyde|Imperial College|658861|22356
+University of Strathclyde|King's College, University of London|650933|23080
+University of Strathclyde|London School of Economics and Political Science|648467|22519
+University of Strathclyde|Royal Holloway, University of London|651056|21664
+University of Strathclyde|Queen Mary, University of London|651331|22986
+University of Strathclyde|University of Edinburgh|73295|3559
+University of Strathclyde|University of Glasgow|4177|651
+University of Strathclyde|University of St Andrews|116473|5927
+University of Strathclyde|Heriot-Watt University|66623|2781
+University of Strathclyde|University of Bristol|596928|20093
+University of Strathclyde|University of Manchester|347465|11747
+University of Strathclyde|University of Warwick|495247|16748
+University of Strathclyde|University of Sheffield|404605|14816
+University of Strathclyde|University of Nottingham|455213|16424
+University of Strathclyde|University of Southampton|685547|23181
+University of Strathclyde|University of Durham|271010|10542
+University of Strathclyde|University of Leeds|345796|13055
+University of Strathclyde|University of York|341115|12934
+University of Strathclyde|Newcastle University|242722|9597
+University of Strathclyde|University of Liverpool|367096|12414
+University of Strathclyde|Cardiff University|639267|21556
+University of Strathclyde|Lancaster University|271253|9140
+University of Strathclyde|University of Exeter|712869|24169
+University of Strathclyde|University of Bath|616763|21092
+University of Strathclyde|University of Sussex|743535|24984
+University of Strathclyde|University of Leicester|503512|17738
+University of Strathclyde|University of Reading|650692|21834
+University of Strathclyde|University of Dundee|128052|5086
+University of Strathclyde|University of East Anglia|600608|23632
+University of Strathclyde|University of Surrey|676210|22388
+University of Strathclyde|Coventry University|498201|16868
+University of Strathclyde|Aston University|466065|15802
+University of Strathclyde|University of Kent|711151|24333
+University of Strathclyde|Loughborough University|479032|16686
+University of Bristol|University of Cambridge|268851|10282
+University of Bristol|University of Oxford|139259|5360
+University of Bristol|University College London|191142|7648
+University of Bristol|Imperial College|186914|6962
+University of Bristol|King's College, University of London|193199|7833
+University of Bristol|London School of Economics and Political Science|191950|7629
+University of Bristol|Royal Holloway, University of London|156593|6258
+University of Bristol|Queen Mary, University of London|197390|8118
+University of Bristol|University of Edinburgh|600052|21530
+University of Bristol|University of Glasgow|599836|20132
+University of Bristol|University of St Andrews|695606|24834
+University of Bristol|Heriot-Watt University|602208|21252
+University of Bristol|University of Strathclyde|596849|19906
+University of Bristol|University of Manchester|269732|9957
+University of Bristol|University of Warwick|165846|6156
+University of Bristol|University of Sheffield|290229|10306
+University of Bristol|University of Nottingham|222911|8241
+University of Bristol|University of Southampton|165490|6089
+University of Bristol|University of Durham|449105|15533
+University of Bristol|University of Leeds|342968|12399
+University of Bristol|University of York|358434|12497
+University of Bristol|Newcastle University|475278|16539
+University of Bristol|University of Liverpool|287421|10183
+University of Bristol|Cardiff University|70528|3055
+University of Bristol|Lancaster University|333553|11534
+University of Bristol|University of Exeter|125702|5313
+University of Bristol|University of Bath|38743|2162
+University of Bristol|University of Sussex|267493|9533
+University of Bristol|University of Leicester|209238|7684
+University of Bristol|University of Reading|130402|4774
+University of Bristol|University of Dundee|707185|23993
+University of Bristol|University of East Anglia|382320|14004
+University of Bristol|University of Surrey|166857|6832
+University of Bristol|Coventry University|174441|6218
+University of Bristol|Aston University|142874|5608
+University of Bristol|University of Kent|274604|9980
+University of Bristol|Loughborough University|217068|7785
+University of Manchester|University of Cambridge|291190|11022
+University of Manchester|University of Oxford|254320|9428
+University of Manchester|University College London|319502|12245
+University of Manchester|Imperial College|331591|12214
+University of Manchester|King's College, University of London|323664|12938
+University of Manchester|London School of Economics and Political Science|321197|12377
+University of Manchester|Royal Holloway, University of London|323786|11522
+University of Manchester|Queen Mary, University of London|324062|12843
+University of Manchester|University of Edinburgh|351281|13236
+University of Manchester|University of Glasgow|351065|11837
+University of Manchester|University of St Andrews|446836|16539
+University of Manchester|Heriot-Watt University|353438|12957
+University of Manchester|University of Strathclyde|348079|11612
+University of Manchester|University of Bristol|269659|9951
+University of Manchester|University of Warwick|167978|6606
+University of Manchester|University of Sheffield|59025|3975
+University of Manchester|University of Nottingham|131713|6470
+University of Manchester|University of Southampton|358277|13039
+University of Manchester|University of Durham|220253|8116
+University of Manchester|University of Leeds|90379|4041
+University of Manchester|University of York|129581|5081
+University of Manchester|Newcastle University|246426|9122
+University of Manchester|University of Liverpool|53837|2403
+University of Manchester|Cardiff University|311998|11414
+University of Manchester|Lancaster University|84782|3239
+University of Manchester|University of Exeter|385600|14027
+University of Manchester|University of Bath|289493|10950
+University of Manchester|University of Sussex|416266|14842
+University of Manchester|University of Leicester|176242|7596
+University of Manchester|University of Reading|323422|11691
+University of Manchester|University of Dundee|458414|15699
+University of Manchester|University of East Anglia|304501|14679
+University of Manchester|University of Surrey|348941|12246
+University of Manchester|Coventry University|170932|6726
+University of Manchester|Aston University|138795|5660
+University of Manchester|University of Kent|383882|14191
+University of Manchester|Loughborough University|151762|6544
+University of Warwick|University of Cambridge|139343|5875
+University of Warwick|University of Oxford|88368|3621
+University of Warwick|University College London|167412|6572
+University of Warwick|Imperial College|165640|6407
+University of Warwick|King's College, University of London|172723|7263
+University of Warwick|London School of Economics and Political Science|168854|6688
+University of Warwick|Royal Holloway, University of London|157834|5715
+University of Warwick|Queen Mary, University of London|160386|7334
+University of Warwick|University of Edinburgh|498765|18254
+University of Warwick|University of Glasgow|498549|16856
+University of Warwick|University of St Andrews|594319|21558
+University of Warwick|Heriot-Watt University|500922|17975
+University of Warwick|University of Strathclyde|495562|16630
+University of Warwick|University of Bristol|165502|6103
+University of Warwick|University of Manchester|168444|6681
+University of Warwick|University of Sheffield|154005|5883
+University of Warwick|University of Nottingham|86686|3818
+University of Warwick|University of Southampton|192325|7232
+University of Warwick|University of Durham|312880|11110
+University of Warwick|University of Leeds|206743|7976
+University of Warwick|University of York|222209|8074
+University of Warwick|Newcastle University|339053|12116
+University of Warwick|University of Liverpool|186134|6907
+University of Warwick|Cardiff University|207841|7566
+University of Warwick|Lancaster University|232266|8258
+University of Warwick|University of Exeter|281443|10179
+University of Warwick|University of Bath|185337|7102
+University of Warwick|University of Sussex|250314|9035
+University of Warwick|University of Leicester|49570|2554
+University of Warwick|University of Reading|157471|5884
+University of Warwick|University of Dundee|605898|20717
+University of Warwick|University of East Anglia|232294|9611
+University of Warwick|University of Surrey|182989|6439
+University of Warwick|Coventry University|7044|762
+University of Warwick|Aston University|35327|1828
+University of Warwick|University of Kent|220205|8682
+University of Warwick|Loughborough University|65753|2839
+University of Sheffield|University of Cambridge|214614|8325
+University of Sheffield|University of Oxford|227487|8923
+University of Sheffield|University College London|268603|10347
+University of Sheffield|Imperial College|269147|10511
+University of Sheffield|King's College, University of London|272765|11040
+University of Sheffield|London School of Economics and Political Science|270298|10478
+University of Sheffield|Royal Holloway, University of London|278837|10154
+University of Sheffield|Queen Mary, University of London|273163|10945
+University of Sheffield|University of Edinburgh|402182|16165
+University of Sheffield|University of Glasgow|407155|15002
+University of Sheffield|University of St Andrews|502925|19704
+University of Sheffield|Heriot-Watt University|411352|16178
+University of Sheffield|University of Strathclyde|404168|14776
+University of Sheffield|University of Bristol|290577|10392
+University of Sheffield|University of Manchester|58924|4008
+University of Sheffield|University of Warwick|154341|5969
+University of Sheffield|University of Nottingham|74477|3383
+University of Sheffield|University of Southampton|331445|12534
+University of Sheffield|University of Durham|182267|7050
+University of Sheffield|University of Leeds|64466|3536
+University of Sheffield|University of York|91595|4014
+University of Sheffield|Newcastle University|208440|8056
+University of Sheffield|University of Liverpool|121313|5950
+University of Sheffield|Cardiff University|332916|11855
+University of Sheffield|Lancaster University|145126|6487
+University of Sheffield|University of Exeter|406518|14468
+University of Sheffield|University of Bath|310411|11391
+University of Sheffield|University of Sussex|371317|13474
+University of Sheffield|University of Leicester|120912|4936
+University of Sheffield|University of Reading|306373|11159
+University of Sheffield|University of Dundee|514504|18863
+University of Sheffield|University of East Anglia|247264|11592
+University of Sheffield|University of Surrey|303992|10878
+University of Sheffield|Coventry University|146892|5838
+University of Sheffield|Aston University|147523|5614
+University of Sheffield|University of Kent|332983|12293
+University of Sheffield|Loughborough University|96432|3884
+University of Nottingham|University of Cambridge|148484|6352
+University of Nottingham|University of Oxford|159478|6759
+University of Nottingham|University College London|200594|8182
+University of Nottingham|Imperial College|201139|8346
+University of Nottingham|King's College, University of London|204756|8875
+University of Nottingham|London School of Economics and Political Science|202289|8314
+University of Nottingham|Royal Holloway, University of London|210829|7990
+University of Nottingham|Queen Mary, University of London|205155|8781
+University of Nottingham|University of Edinburgh|454386|17814
+University of Nottingham|University of Glasgow|459359|16650
+University of Nottingham|University of St Andrews|555129|21352
+University of Nottingham|Heriot-Watt University|463557|17827
+University of Nottingham|University of Strathclyde|456373|16425
+University of Nottingham|University of Bristol|222568|8228
+University of Nottingham|University of Manchester|132999|6668
+University of Nottingham|University of Warwick|86332|3804
+University of Nottingham|University of Sheffield|75596|3472
+University of Nottingham|University of Southampton|263436|10369
+University of Nottingham|University of Durham|234472|8699
+University of Nottingham|University of Leeds|128335|5564
+University of Nottingham|University of York|143800|5663
+University of Nottingham|Newcastle University|260645|9704
+University of Nottingham|University of Liverpool|173791|7132
+University of Nottingham|Cardiff University|264907|9691
+University of Nottingham|Lancaster University|219922|8483
+University of Nottingham|University of Exeter|338509|12304
+University of Nottingham|University of Bath|242403|9227
+University of Nottingham|University of Sussex|303308|11310
+University of Nottingham|University of Leicester|42468|2446
+University of Nottingham|University of Reading|238364|8994
+University of Nottingham|University of Dundee|566708|20512
+University of Nottingham|University of East Anglia|194124|10129
+University of Nottingham|University of Surrey|235984|8713
+University of Nottingham|Coventry University|78884|3674
+University of Nottingham|Aston University|79514|3450
+University of Nottingham|University of Kent|264974|10128
+University of Nottingham|Loughborough University|28423|1720
+University of Southampton|University of Cambridge|204494|8346
+University of Southampton|University of Oxford|106092|4546
+University of Southampton|University College London|126638|5726
+University of Southampton|Imperial College|122410|5040
+University of Southampton|King's College, University of London|128696|5910
+University of Southampton|London School of Economics and Political Science|127446|5706
+University of Southampton|Royal Holloway, University of London|88220|3782
+University of Southampton|Queen Mary, University of London|132886|6195
+University of Southampton|University of Edinburgh|688385|24737
+University of Southampton|University of Glasgow|688169|23339
+University of Southampton|University of St Andrews|783939|28040
+University of Southampton|Heriot-Watt University|690541|24458
+University of Southampton|University of Strathclyde|685182|23113
+University of Southampton|University of Bristol|164902|6086
+University of Southampton|University of Manchester|358064|13164
+University of Southampton|University of Warwick|192258|7253
+University of Southampton|University of Sheffield|330733|12489
+University of Southampton|University of Nottingham|263414|10424
+University of Southampton|University of Durham|489609|17716
+University of Southampton|University of Leeds|383472|14582
+University of Southampton|University of York|398937|14680
+University of Southampton|Newcastle University|515781|18722
+University of Southampton|University of Liverpool|375754|13389
+University of Southampton|Cardiff University|216987|8022
+University of Southampton|Lancaster University|421886|14740
+University of Southampton|University of Exeter|179627|9313
+University of Southampton|University of Bath|101294|5790
+University of Southampton|University of Sussex|109057|5230
+University of Southampton|University of Leicester|235526|9062
+University of Southampton|University of Reading|74047|3672
+University of Southampton|University of Dundee|795518|27200
+University of Southampton|University of East Anglia|317963|12068
+University of Southampton|University of Surrey|92712|3644
+University of Southampton|Coventry University|196114|7319
+University of Southampton|Aston University|226176|8322
+University of Southampton|University of Kent|187769|7243
+University of Southampton|Loughborough University|242481|9445
+University of Durham|University of Cambridge|346231|12776
+University of Durham|University of Oxford|386497|14374
+University of Durham|University College London|427613|15798
+University of Durham|Imperial College|428158|15962
+University of Durham|King's College, University of London|437918|16307
+University of Durham|London School of Economics and Political Science|429309|15929
+University of Durham|Royal Holloway, University of London|437847|15605
+University of Durham|Queen Mary, University of London|429044|15617
+University of Durham|University of Edinburgh|225332|10012
+University of Durham|University of Glasgow|273555|10707
+University of Durham|University of St Andrews|311611|14079
+University of Durham|Heriot-Watt University|234502|10025
+University of Durham|University of Strathclyde|270569|10481
+University of Durham|University of Bristol|449587|15843
+University of Durham|University of Manchester|219823|8354
+University of Durham|University of Warwick|313351|11420
+University of Durham|University of Sheffield|182878|7226
+University of Durham|University of Nottingham|233487|8834
+University of Durham|University of Southampton|490455|17985
+University of Durham|University of Leeds|124069|5465
+University of Durham|University of York|119389|5344
+University of Durham|Newcastle University|31590|1903
+University of Durham|University of Liverpool|252100|9464
+University of Durham|Cardiff University|491926|17306
+University of Durham|Lancaster University|173497|7125
+University of Durham|University of Exeter|565528|19919
+University of Durham|University of Bath|469421|16842
+University of Durham|University of Sussex|530327|18925
+University of Durham|University of Leicester|279922|10387
+University of Durham|University of Reading|465383|16610
+University of Durham|University of Dundee|328200|13672
+University of Durham|University of East Anglia|378881|16042
+University of Durham|University of Surrey|463002|16329
+University of Durham|Coventry University|305902|11289
+University of Durham|Aston University|306533|11065
+University of Durham|University of Kent|462993|16808
+University of Durham|Loughborough University|255442|9336
+University of Leeds|University of Cambridge|252014|9795
+University of Leeds|University of Oxford|279433|10811
+University of Leeds|University College London|320549|12235
+University of Leeds|Imperial College|321094|12399
+University of Leeds|King's College, University of London|324711|12928
+University of Leeds|London School of Economics and Political Science|322245|12367
+University of Leeds|Royal Holloway, University of London|330784|12042
+University of Leeds|Queen Mary, University of London|334827|12636
+University of Leeds|University of Edinburgh|346975|14338
+University of Leeds|University of Glasgow|351948|13174
+University of Leeds|University of St Andrews|447718|17876
+University of Leeds|Heriot-Watt University|356145|14351
+University of Leeds|University of Strathclyde|348962|12949
+University of Leeds|University of Bristol|342523|12280
+University of Leeds|University of Manchester|89622|4034
+University of Leeds|University of Warwick|206287|7857
+University of Leeds|University of Sheffield|64471|3420
+University of Leeds|University of Nottingham|126423|5271
+University of Leeds|University of Southampton|383391|14422
+University of Leeds|University of Durham|127060|5223
+University of Leeds|University of York|44255|2306
+University of Leeds|Newcastle University|153233|6228
+University of Leeds|University of Liverpool|121899|5144
+University of Leeds|Cardiff University|384862|13743
+University of Leeds|Lancaster University|142865|5609
+University of Leeds|University of Exeter|458464|16356
+University of Leeds|University of Bath|362358|13280
+University of Leeds|University of Sussex|423264|15362
+University of Leeds|University of Leicester|172858|6825
+University of Leeds|University of Reading|358319|13047
+University of Leeds|University of Dundee|459297|17036
+University of Leeds|University of East Anglia|284664|13062
+University of Leeds|University of Surrey|355938|12766
+University of Leeds|Coventry University|198838|7726
+University of Leeds|Aston University|199469|7503
+University of Leeds|University of Kent|368776|13827
+University of Leeds|Loughborough University|148378|5773
+University of York|University of Cambridge|255487|9640
+University of York|University of Oxford|295754|11239
+University of York|University College London|336870|12662
+University of York|Imperial College|337414|12826
+University of York|King's College, University of London|347174|13172
+University of York|London School of Economics and Political Science|338565|12794
+University of York|Royal Holloway, University of London|347104|12470
+University of York|Queen Mary, University of London|338300|12481
+University of York|University of Edinburgh|339644|14368
+University of York|University of Glasgow|344617|13205
+University of York|University of St Andrews|440388|17907
+University of York|Heriot-Watt University|348814|14381
+University of York|University of Strathclyde|341631|12979
+University of York|University of Bristol|358843|12708
+University of York|University of Manchester|129079|5219
+University of York|University of Warwick|222607|8284
+University of York|University of Sheffield|92135|4091
+University of York|University of Nottingham|142743|5699
+University of York|University of Southampton|399711|14850
+University of York|University of Durham|119730|5253
+University of York|University of Leeds|44897|2488
+University of York|Newcastle University|137169|6168
+University of York|University of Liverpool|161356|6329
+University of York|Cardiff University|401182|14171
+University of York|Lancaster University|182322|6793
+University of York|University of Exeter|474784|16784
+University of York|University of Bath|378678|13707
+University of York|University of Sussex|439584|15790
+University of York|University of Leicester|189179|7252
+University of York|University of Reading|374639|13474
+University of York|University of Dundee|451966|17066
+University of York|University of East Anglia|288138|12907
+University of York|University of Surrey|372259|13193
+University of York|Coventry University|215159|8154
+University of York|Aston University|215790|7930
+University of York|University of Kent|372250|13673
+University of York|Loughborough University|164699|6200
+Newcastle University|University of Cambridge|370800|13564
+Newcastle University|University of Oxford|411066|15163
+Newcastle University|University College London|452182|16586
+Newcastle University|Imperial College|452727|16750
+Newcastle University|King's College, University of London|462487|17095
+Newcastle University|London School of Economics and Political Science|453878|16718
+Newcastle University|Royal Holloway, University of London|462417|16394
+Newcastle University|Queen Mary, University of London|453613|16405
+Newcastle University|University of Edinburgh|191313|8692
+Newcastle University|University of Glasgow|246215|9514
+Newcastle University|University of St Andrews|277592|12759
+Newcastle University|Heriot-Watt University|200483|8705
+Newcastle University|University of Strathclyde|243229|9289
+Newcastle University|University of Bristol|474156|16632
+Newcastle University|University of Manchester|244392|9143
+Newcastle University|University of Warwick|337920|12208
+Newcastle University|University of Sheffield|207447|8014
+Newcastle University|University of Nottingham|258056|9622
+Newcastle University|University of Southampton|515024|18773
+Newcastle University|University of Durham|30723|1766
+Newcastle University|University of Leeds|148638|6253
+Newcastle University|University of York|138505|6152
+Newcastle University|University of Liverpool|276669|10253
+Newcastle University|Cardiff University|516495|18095
+Newcastle University|Lancaster University|206306|8027
+Newcastle University|University of Exeter|590097|20707
+Newcastle University|University of Bath|493991|17631
+Newcastle University|University of Sussex|554896|19714
+Newcastle University|University of Leicester|304491|11176
+Newcastle University|University of Reading|489952|17398
+Newcastle University|University of Dundee|294181|12352
+Newcastle University|University of East Anglia|403451|16831
+Newcastle University|University of Surrey|487571|17117
+Newcastle University|Coventry University|330472|12078
+Newcastle University|Aston University|331102|11854
+Newcastle University|University of Kent|487563|17596
+Newcastle University|Loughborough University|280012|10124
+University of Liverpool|University of Cambridge|309770|11403
+University of Liverpool|University of Oxford|272900|9810
+University of Liverpool|University College London|338082|12627
+University of Liverpool|Imperial College|350171|12596
+University of Liverpool|King's College, University of London|342243|13320
+University of Liverpool|London School of Economics and Political Science|339777|12758
+University of Liverpool|Royal Holloway, University of London|342366|11904
+University of Liverpool|Queen Mary, University of London|342642|13225
+University of Liverpool|University of Edinburgh|368382|13910
+University of Liverpool|University of Glasgow|368166|12512
+University of Liverpool|University of St Andrews|463936|17214
+University of Liverpool|Heriot-Watt University|370539|13632
+University of Liverpool|University of Strathclyde|365179|12287
+University of Liverpool|University of Bristol|288239|10332
+University of Liverpool|University of Manchester|53864|2506
+University of Liverpool|University of Warwick|186558|6987
+University of Liverpool|University of Sheffield|122317|6038
+University of Liverpool|University of Nottingham|172898|7100
+University of Liverpool|University of Southampton|376857|13421
+University of Liverpool|University of Durham|251425|9274
+University of Liverpool|University of Leeds|121552|5199
+University of Liverpool|University of York|160754|6239
+University of Liverpool|Newcastle University|277598|10280
+University of Liverpool|Cardiff University|330578|11795
+University of Liverpool|Lancaster University|101883|3914
+University of Liverpool|University of Exeter|404180|14408
+University of Liverpool|University of Bath|308073|11332
+University of Liverpool|University of Sussex|434846|15224
+University of Liverpool|University of Leicester|194822|7977
+University of Liverpool|University of Reading|342002|12073
+University of Liverpool|University of Dundee|475515|16373
+University of Liverpool|University of East Anglia|402721|15139
+University of Liverpool|University of Surrey|367521|12627
+University of Liverpool|Coventry University|189512|7108
+University of Liverpool|Aston University|157375|6041
+University of Liverpool|University of Kent|402462|14573
+University of Liverpool|Loughborough University|170342|6926
+Cardiff University|University of Cambridge|321248|12209
+Cardiff University|University of Oxford|191656|7287
+Cardiff University|University College London|243539|9575
+Cardiff University|Imperial College|239311|8889
+Cardiff University|King's College, University of London|245596|9760
+Cardiff University|London School of Economics and Political Science|244347|9556
+Cardiff University|Royal Holloway, University of London|208989|8184
+Cardiff University|Queen Mary, University of London|249787|10044
+Cardiff University|University of Edinburgh|642587|23002
+Cardiff University|University of Glasgow|642370|21604
+Cardiff University|University of St Andrews|738140|26306
+Cardiff University|Heriot-Watt University|644743|22723
+Cardiff University|University of Strathclyde|639384|21378
+Cardiff University|University of Bristol|71305|3090
+Cardiff University|University of Manchester|312266|11429
+Cardiff University|University of Warwick|208380|7628
+Cardiff University|University of Sheffield|332764|11778
+Cardiff University|University of Nottingham|265445|9713
+Cardiff University|University of Southampton|217887|8016
+Cardiff University|University of Durham|491640|17005
+Cardiff University|University of Leeds|385503|13870
+Cardiff University|University of York|400968|13969
+Cardiff University|Newcastle University|517812|18010
+Cardiff University|University of Liverpool|329956|11654
+Cardiff University|Lancaster University|376088|13005
+Cardiff University|University of Exeter|177186|6790
+Cardiff University|University of Bath|91140|4089
+Cardiff University|University of Sussex|319890|11460
+Cardiff University|University of Leicester|251772|9156
+Cardiff University|University of Reading|182799|6700
+Cardiff University|University of Dundee|749719|25465
+Cardiff University|University of East Anglia|434717|15931
+Cardiff University|University of Surrey|219253|8759
+Cardiff University|Coventry University|216976|7689
+Cardiff University|Aston University|185408|7080
+Cardiff University|University of Kent|327001|11907
+Cardiff University|Loughborough University|259602|9257
+Lancaster University|University of Cambridge|355781|12671
+Lancaster University|University of Oxford|318911|11078
+Lancaster University|University College London|384093|13894
+Lancaster University|Imperial College|396182|13864
+Lancaster University|King's College, University of London|388255|14587
+Lancaster University|London School of Economics and Political Science|385789|14026
+Lancaster University|Royal Holloway, University of London|388377|13172
+Lancaster University|Queen Mary, University of London|388653|14493
+Lancaster University|University of Edinburgh|273999|10582
+Lancaster University|University of Glasgow|273783|9184
+Lancaster University|University of St Andrews|369554|13886
+Lancaster University|Heriot-Watt University|276156|10304
+Lancaster University|University of Strathclyde|270797|8958
+Lancaster University|University of Bristol|334250|11600
+Lancaster University|University of Manchester|84787|3254
+Lancaster University|University of Warwick|232569|8255
+Lancaster University|University of Sheffield|145773|6507
+Lancaster University|University of Nottingham|218909|8368
+Lancaster University|University of Southampton|422869|14688
+Lancaster University|University of Durham|173356|6883
+Lancaster University|University of Leeds|143324|5620
+Lancaster University|University of York|182526|6660
+Lancaster University|Newcastle University|199530|7889
+Lancaster University|University of Liverpool|104418|3921
+Lancaster University|Cardiff University|376589|13063
+Lancaster University|University of Exeter|450191|15676
+Lancaster University|University of Bath|354084|12599
+Lancaster University|University of Sussex|480857|16492
+Lancaster University|University of Leicester|240833|9245
+Lancaster University|University of Reading|388014|13341
+Lancaster University|University of Dundee|381132|13045
+Lancaster University|University of East Anglia|398452|16698
+Lancaster University|University of Surrey|413532|13895
+Lancaster University|Coventry University|235523|8376
+Lancaster University|Aston University|203386|7309
+Lancaster University|University of Kent|448473|15840
+Lancaster University|Loughborough University|216353|8194
+University of Exeter|University of Cambridge|394581|14927
+University of Exeter|University of Oxford|264989|10005
+University of Exeter|University College London|316872|12293
+University of Exeter|Imperial College|312644|11607
+University of Exeter|King's College, University of London|318929|12478
+University of Exeter|London School of Economics and Political Science|317680|12274
+University of Exeter|Royal Holloway, University of London|242896|10714
+University of Exeter|Queen Mary, University of London|323120|12762
+University of Exeter|University of Edinburgh|716055|25729
+University of Exeter|University of Glasgow|715839|24331
+University of Exeter|University of St Andrews|811609|29033
+University of Exeter|Heriot-Watt University|718211|25450
+University of Exeter|University of Strathclyde|712852|24105
+University of Exeter|University of Bristol|126226|5340
+University of Exeter|University of Manchester|385734|14156
+University of Exeter|University of Warwick|281848|10355
+University of Exeter|University of Sheffield|406232|14505
+University of Exeter|University of Nottingham|338913|12440
+University of Exeter|University of Southampton|180492|9229
+University of Exeter|University of Durham|565108|19732
+University of Exeter|University of Leeds|458971|16597
+University of Exeter|University of York|474436|16696
+University of Exeter|Newcastle University|591280|20737
+University of Exeter|University of Liverpool|403424|14382
+University of Exeter|Cardiff University|176349|6844
+University of Exeter|Lancaster University|449556|15733
+University of Exeter|University of Bath|164473|6807
+University of Exeter|University of Sussex|283468|13705
+University of Exeter|University of Leicester|325241|11883
+University of Exeter|University of Reading|256131|9418
+University of Exeter|University of Dundee|823188|28192
+University of Exeter|University of East Anglia|508050|18649
+University of Exeter|University of Surrey|247388|10577
+University of Exeter|Coventry University|290444|10417
+University of Exeter|Aston University|258876|9807
+University of Exeter|University of Kent|342445|14176
+University of Exeter|Loughborough University|333070|11984
+University of Bath|University of Cambridge|263997|10460
+University of Bath|University of Oxford|134405|5539
+University of Bath|University College London|186288|7827
+University of Bath|Imperial College|182060|7141
+University of Bath|King's College, University of London|188346|8011
+University of Bath|London School of Economics and Political Science|187096|7807
+University of Bath|Royal Holloway, University of London|151739|6436
+University of Bath|Queen Mary, University of London|192536|8296
+University of Bath|University of Edinburgh|619754|22528
+University of Bath|University of Glasgow|619538|21130
+University of Bath|University of St Andrews|715308|25832
+University of Bath|Heriot-Watt University|621910|22250
+University of Bath|University of Strathclyde|616551|20904
+University of Bath|University of Bristol|24465|2126
+University of Bath|University of Manchester|289433|10955
+University of Bath|University of Warwick|185547|7154
+University of Bath|University of Sheffield|309931|11304
+University of Bath|University of Nottingham|242613|9239
+University of Bath|University of Southampton|101380|5682
+University of Bath|University of Durham|468807|16531
+University of Bath|University of Leeds|362670|13397
+University of Bath|University of York|378135|13495
+University of Bath|Newcastle University|494980|17537
+University of Bath|University of Liverpool|307123|11181
+University of Bath|Cardiff University|90230|4053
+University of Bath|Lancaster University|353255|12532
+University of Bath|University of Exeter|163723|6661
+University of Bath|University of Sussex|262640|9711
+University of Bath|University of Leicester|228940|8682
+University of Bath|University of Reading|125548|4952
+University of Bath|University of Dundee|726887|24991
+University of Bath|University of East Anglia|377467|14183
+University of Bath|University of Surrey|159481|6863
+University of Bath|Coventry University|194143|7216
+University of Bath|Aston University|162576|6606
+University of Bath|University of Kent|269751|10158
+University of Bath|Loughborough University|236769|8783
+University of Sussex|University of Cambridge|191710|7725
+University of Sussex|University of Oxford|172590|6950
+University of Sussex|University College London|88456|5597
+University of Sussex|Imperial College|87571|5376
+University of Sussex|King's College, University of London|86323|5214
+University of Sussex|London School of Economics and Political Science|88020|5447
+University of Sussex|Royal Holloway, University of London|104189|4401
+University of Sussex|Queen Mary, University of London|118107|5476
+University of Sussex|University of Edinburgh|746653|26602
+University of Sussex|University of Glasgow|746437|25204
+University of Sussex|University of St Andrews|842207|29906
+University of Sussex|Heriot-Watt University|748809|26324
+University of Sussex|University of Strathclyde|743450|24978
+University of Sussex|University of Bristol|266957|9605
+University of Sussex|University of Manchester|416332|15029
+University of Sussex|University of Warwick|250526|9119
+University of Sussex|University of Sheffield|370795|13439
+University of Sussex|University of Nottingham|303476|11374
+University of Sussex|University of Southampton|108788|5180
+University of Sussex|University of Durham|529671|18666
+University of Sussex|University of Leeds|423534|15532
+University of Sussex|University of York|438999|15630
+University of Sussex|Newcastle University|555844|19672
+University of Sussex|University of Liverpool|434022|15255
+University of Sussex|Cardiff University|319042|11541
+University of Sussex|Lancaster University|480154|16606
+University of Sussex|University of Exeter|283087|13814
+University of Sussex|University of Bath|262176|9789
+University of Sussex|University of Leicester|266247|10144
+University of Sussex|University of Reading|143480|5803
+University of Sussex|University of Dundee|853786|29065
+University of Sussex|University of East Anglia|278031|11193
+University of Sussex|University of Surrey|95964|3898
+University of Sussex|Coventry University|254382|9184
+University of Sussex|Aston University|284444|10187
+University of Sussex|University of Kent|118409|5180
+University of Sussex|Loughborough University|282543|10395
+University of Leicester|University of Cambridge|113812|5443
+University of Leicester|University of Oxford|130507|5410
+University of Leicester|University College London|162701|6943
+University of Leicester|Imperial College|163246|7107
+University of Leicester|King's College, University of London|166863|7636
+University of Leicester|London School of Economics and Political Science|164396|7075
+University of Leicester|Royal Holloway, University of London|172935|6751
+University of Leicester|Queen Mary, University of London|167261|7542
+University of Leicester|University of Edinburgh|498828|19248
+University of Leicester|University of Glasgow|508750|17851
+University of Leicester|University of St Andrews|604520|22553
+University of Leicester|Heriot-Watt University|511123|18971
+University of Leicester|University of Strathclyde|505764|17626
+University of Leicester|University of Bristol|207835|7694
+University of Leicester|University of Manchester|178646|7677
+University of Leicester|University of Warwick|48423|2532
+University of Leicester|University of Sheffield|120038|4905
+University of Leicester|University of Nottingham|42513|2517
+University of Leicester|University of Southampton|234465|9020
+University of Leicester|University of Durham|278914|10132
+University of Leicester|University of Leeds|172777|6998
+University of Leicester|University of York|188242|7096
+University of Leicester|Newcastle University|305087|11138
+University of Leicester|University of Liverpool|196336|7902
+University of Leicester|Cardiff University|250174|9157
+University of Leicester|Lancaster University|242468|9253
+University of Leicester|University of Exeter|323776|11769
+University of Leicester|University of Bath|227670|8693
+University of Leicester|University of Sussex|265415|10071
+University of Leicester|University of Reading|200471|7755
+University of Leicester|University of Dundee|616099|21713
+University of Leicester|University of East Anglia|206763|9179
+University of Leicester|University of Surrey|198090|7474
+University of Leicester|Coventry University|40974|2401
+University of Leicester|Aston University|71670|3157
+University of Leicester|University of Kent|227081|8889
+University of Leicester|Loughborough University|21095|1579
+University of Reading|University of Cambridge|143215|6478
+University of Reading|University of Oxford|71531|3274
+University of Reading|University College London|65505|3844
+University of Reading|Imperial College|61278|3158
+University of Reading|King's College, University of London|67563|4029
+University of Reading|London School of Economics and Political Science|66313|3825
+University of Reading|Royal Holloway, University of London|30818|2434
+University of Reading|Queen Mary, University of London|71754|4313
+University of Reading|University of Edinburgh|651228|23311
+University of Reading|University of Glasgow|651012|21912
+University of Reading|University of St Andrews|746782|26614
+University of Reading|Heriot-Watt University|653384|23032
+University of Reading|University of Strathclyde|648025|21687
+University of Reading|University of Bristol|130117|4706
+University of Reading|University of Manchester|320908|11738
+University of Reading|University of Warwick|155102|5827
+University of Reading|University of Sheffield|303439|11011
+University of Reading|University of Nottingham|236120|8947
+University of Reading|University of Southampton|73534|3507
+University of Reading|University of Durham|462315|16238
+University of Reading|University of Leeds|356177|13104
+University of Reading|University of York|371643|13203
+University of Reading|Newcastle University|488487|17244
+University of Reading|University of Liverpool|338597|11963
+University of Reading|Cardiff University|182202|6642
+University of Reading|Lancaster University|384729|13314
+University of Reading|University of Exeter|255696|9249
+University of Reading|University of Bath|125336|4890
+University of Reading|University of Sussex|129654|5709
+University of Reading|University of Leicester|198891|7716
+University of Reading|University of Dundee|758361|25774
+University of Reading|University of East Anglia|256684|10200
+University of Reading|University of Surrey|41082|3009
+University of Reading|Coventry University|158958|5893
+University of Reading|Aston University|189020|6895
+University of Reading|University of Kent|136765|6156
+University of Reading|Loughborough University|215187|7967
+University of Dundee|University of Cambridge|677729|24526
+University of Dundee|University of Oxford|691361|23731
+University of Dundee|University College London|756543|26548
+University of Dundee|Imperial College|768633|26517
+University of Dundee|King's College, University of London|760705|27241
+University of Dundee|London School of Economics and Political Science|758239|26679
+University of Dundee|Royal Holloway, University of London|760828|25825
+University of Dundee|Queen Mary, University of London|761103|27146
+University of Dundee|University of Edinburgh|97962|4643
+University of Dundee|University of Glasgow|130803|5408
+University of Dundee|University of St Andrews|22121|1668
+University of Dundee|Heriot-Watt University|100258|4214
+University of Dundee|University of Strathclyde|127816|5182
+University of Dundee|University of Bristol|706700|24254
+University of Dundee|University of Manchester|457237|15907
+University of Dundee|University of Warwick|605019|20908
+University of Dundee|University of Sheffield|514377|18976
+University of Dundee|University of Nottingham|564986|20584
+University of Dundee|University of Southampton|795319|27342
+University of Dundee|University of Durham|331695|13694
+University of Dundee|University of Leeds|455568|17215
+University of Dundee|University of York|450887|17095
+University of Dundee|Newcastle University|297960|12590
+University of Dundee|University of Liverpool|476868|16574
+University of Dundee|Cardiff University|749040|25717
+University of Dundee|Lancaster University|381025|13300
+University of Dundee|University of Exeter|822642|28329
+University of Dundee|University of Bath|726535|25253
+University of Dundee|University of Sussex|853307|29145
+University of Dundee|University of Leicester|613284|21899
+University of Dundee|University of Reading|760464|25994
+University of Dundee|University of East Anglia|710380|27793
+University of Dundee|University of Surrey|785983|26548
+University of Dundee|Coventry University|607974|21029
+University of Dundee|Aston University|575836|19963
+University of Dundee|University of Kent|820923|28494
+University of Dundee|Loughborough University|588804|20847
+University of East Anglia|University of Cambridge|98270|4671
+University of East Anglia|University of Oxford|232893|10858
+University of East Anglia|University College London|187027|8395
+University of East Anglia|Imperial College|189031|8482
+University of East Anglia|King's College, University of London|183479|7879
+University of East Anglia|London School of Economics and Political Science|181516|8130
+University of East Anglia|Royal Holloway, University of London|231629|9324
+University of East Anglia|Queen Mary, University of London|174605|7189
+University of East Anglia|University of Edinburgh|599796|25024
+University of East Anglia|University of Glasgow|604770|23860
+University of East Anglia|University of St Andrews|700540|28562
+University of East Anglia|Heriot-Watt University|608966|25037
+University of East Anglia|University of Strathclyde|601783|23635
+University of East Anglia|University of Bristol|382642|14131
+University of East Anglia|University of Manchester|305166|14821
+University of East Anglia|University of Warwick|232307|9639
+University of East Anglia|University of Sheffield|247763|11625
+University of East Anglia|University of Nottingham|192818|10145
+University of East Anglia|University of Southampton|318604|12250
+University of East Anglia|University of Durham|379882|15909
+University of East Anglia|University of Leeds|286077|13201
+University of East Anglia|University of York|289210|12873
+University of East Anglia|Newcastle University|406055|16914
+University of East Anglia|University of Liverpool|402426|15142
+University of East Anglia|Cardiff University|434727|16067
+University of East Anglia|Lancaster University|448558|16493
+University of East Anglia|University of Exeter|508221|18675
+University of East Anglia|University of Bath|377862|14315
+University of East Anglia|University of Sussex|276287|10984
+University of East Anglia|University of Leicester|206624|9251
+University of East Anglia|University of Reading|259165|10329
+University of East Anglia|University of Dundee|712119|27722
+University of East Anglia|University of Surrey|256784|10048
+University of East Anglia|Coventry University|222899|9367
+University of East Anglia|Aston University|253555|10111
+University of East Anglia|University of Kent|208554|8380
+University of East Anglia|Loughborough University|245122|9846
+University of Surrey|University of Cambridge|144360|6233
+University of Surrey|University of Oxford|106379|4278
+University of Surrey|University College London|54464|3434
+University of Surrey|Imperial College|48695|2819
+University of Surrey|King's College, University of London|53517|3237
+University of Surrey|London School of Economics and Political Science|54289|3298
+University of Surrey|Royal Holloway, University of London|37978|1728
+University of Surrey|Queen Mary, University of London|59662|3803
+University of Surrey|University of Edinburgh|680442|23930
+University of Surrey|University of Glasgow|680226|22531
+University of Surrey|University of St Andrews|775995|27233
+University of Surrey|Heriot-Watt University|682598|23651
+University of Surrey|University of Strathclyde|677239|22306
+University of Surrey|University of Bristol|179408|6651
+University of Surrey|University of Manchester|350121|12357
+University of Surrey|University of Warwick|184315|6446
+University of Surrey|University of Sheffield|304584|10766
+University of Surrey|University of Nottingham|237265|8702
+University of Surrey|University of Southampton|90777|3438
+University of Surrey|University of Durham|463460|15994
+University of Surrey|University of Leeds|357322|12859
+University of Surrey|University of York|372788|12958
+University of Surrey|Newcastle University|489632|16999
+University of Surrey|University of Liverpool|367810|12582
+University of Surrey|Cardiff University|231492|8587
+University of Surrey|Lancaster University|413942|13933
+University of Surrey|University of Exeter|245441|10346
+University of Surrey|University of Bath|158958|6778
+University of Surrey|University of Sussex|97603|3872
+University of Surrey|University of Leicester|200036|7471
+University of Surrey|University of Reading|48371|2929
+University of Surrey|University of Dundee|787574|26393
+University of Surrey|University of East Anglia|257829|9955
+University of Surrey|Coventry University|188171|6512
+University of Surrey|Aston University|218233|7514
+University of Surrey|University of Kent|104715|4319
+University of Surrey|Loughborough University|216332|7722
+Coventry University|University of Cambridge|129595|5537
+Coventry University|University of Oxford|92411|3643
+Coventry University|University College London|171455|6593
+Coventry University|Imperial College|169683|6429
+Coventry University|King's College, University of London|157456|7329
+Coventry University|London School of Economics and Political Science|172898|6710
+Coventry University|Royal Holloway, University of London|161878|5737
+Coventry University|Queen Mary, University of London|157855|7234
+Coventry University|University of Edinburgh|500934|18407
+Coventry University|University of Glasgow|500718|17009
+Coventry University|University of St Andrews|596488|21711
+Coventry University|Heriot-Watt University|503091|18129
+Coventry University|University of Strathclyde|497731|16783
+Coventry University|University of Bristol|165990|6231
+Coventry University|University of Manchester|170613|6834
+Coventry University|University of Warwick|6746|791
+Coventry University|University of Sheffield|144674|5617
+Coventry University|University of Nottingham|77355|3552
+Coventry University|University of Southampton|196369|7254
+Coventry University|University of Durham|303550|10844
+Coventry University|University of Leeds|197412|7709
+Coventry University|University of York|212878|7808
+Coventry University|Newcastle University|329722|11849
+Coventry University|University of Liverpool|188303|7060
+Coventry University|Cardiff University|208329|7694
+Coventry University|Lancaster University|234435|8411
+Coventry University|University of Exeter|281931|10307
+Coventry University|University of Bath|185824|7230
+Coventry University|University of Sussex|254357|9057
+Coventry University|University of Leicester|40239|2288
+Coventry University|University of Reading|161514|5906
+Coventry University|University of Dundee|608067|20870
+Coventry University|University of East Anglia|222546|9272
+Coventry University|University of Surrey|187033|6460
+Coventry University|Aston University|39432|2029
+Coventry University|University of Kent|217674|8582
+Coventry University|Loughborough University|56422|2572
+Aston University|University of Cambridge|160191|6305
+Aston University|University of Oxford|123391|4707
+Aston University|University College London|188502|7528
+Aston University|Imperial College|200663|7493
+Aston University|King's College, University of London|192665|8221
+Aston University|London School of Economics and Political Science|190198|7660
+Aston University|Royal Holloway, University of London|192857|6801
+Aston University|Queen Mary, University of London|193063|8126
+Aston University|University of Edinburgh|468776|17262
+Aston University|University of Glasgow|468560|15863
+Aston University|University of St Andrews|564330|20565
+Aston University|Heriot-Watt University|470933|16983
+Aston University|University of Strathclyde|465574|15638
+Aston University|University of Bristol|147805|5754
+Aston University|University of Manchester|138455|5689
+Aston University|University of Warwick|35488|1873
+Aston University|University of Sheffield|147083|5547
+Aston University|University of Nottingham|79764|3483
+Aston University|University of Southampton|227349|8318
+Aston University|University of Durham|305959|10774
+Aston University|University of Leeds|199821|7640
+Aston University|University of York|215287|7739
+Aston University|Newcastle University|332131|11780
+Aston University|University of Liverpool|156145|5914
+Aston University|Cardiff University|190144|7217
+Aston University|Lancaster University|202277|7265
+Aston University|University of Exeter|263746|9830
+Aston University|University of Bath|167640|6753
+Aston University|University of Sussex|285337|10121
+Aston University|University of Leicester|70813|3069
+Aston University|University of Reading|192494|6970
+Aston University|University of Dundee|575909|19725
+Aston University|University of East Anglia|253142|10040
+Aston University|University of Surrey|218012|7524
+Aston University|Coventry University|39933|2009
+Aston University|University of Kent|252882|9474
+Aston University|Loughborough University|73921|3027
+University of Kent|University of Cambridge|123616|4958
+University of Kent|University of Oxford|179781|7237
+University of Kent|University College London|58861|3714
+University of Kent|Imperial College|58399|3838
+University of Kent|King's College, University of London|52570|3058
+University of Kent|London School of Economics and Political Science|56085|3487
+University of Kent|Royal Holloway, University of London|111381|4687
+University of Kent|Queen Mary, University of London|50435|2704
+University of Kent|University of Edinburgh|683894|25761
+University of Kent|University of Glasgow|714467|24532
+University of Kent|University of St Andrews|810236|29234
+University of Kent|Heriot-Watt University|693065|25774
+University of Kent|University of Strathclyde|711480|24307
+University of Kent|University of Bristol|274149|9892
+University of Kent|University of Manchester|384362|14358
+University of Kent|University of Warwick|220322|8688
+University of Kent|University of Sheffield|333158|12280
+University of Kent|University of Nottingham|265839|10215
+University of Kent|University of Southampton|187250|7191
+University of Kent|University of Durham|463981|16646
+University of Kent|University of Leeds|370176|13938
+University of Kent|University of York|373309|13610
+University of Kent|Newcastle University|490153|17651
+University of Kent|University of Liverpool|402051|14583
+University of Kent|Cardiff University|326233|11828
+University of Kent|Lancaster University|448183|15934
+University of Kent|University of Exeter|341914|14099
+University of Kent|University of Bath|269368|10076
+University of Kent|University of Sussex|117693|4985
+University of Kent|University of Leicester|228610|8985
+University of Kent|University of Reading|150671|6090
+University of Kent|University of Dundee|821816|28394
+University of Kent|University of East Anglia|209937|8426
+University of Kent|University of Surrey|103155|4185
+University of Kent|Coventry University|218012|8690
+University of Kent|Aston University|253181|9552
+University of Kent|Loughborough University|244906|9236
+Loughborough University|University of Cambridge|151191|5933
+Loughborough University|University of Oxford|138602|5745
+Loughborough University|University College London|179717|7169
+Loughborough University|Imperial College|180262|7333
+Loughborough University|King's College, University of London|183880|7862
+Loughborough University|London School of Economics and Political Science|181413|7301
+Loughborough University|Royal Holloway, University of London|189952|6976
+Loughborough University|Queen Mary, University of London|184278|7767
+Loughborough University|University of Edinburgh|475080|18147
+Loughborough University|University of Glasgow|485001|16751
+Loughborough University|University of St Andrews|580771|21453
+Loughborough University|Heriot-Watt University|487374|17871
+Loughborough University|University of Strathclyde|482015|16525
+Loughborough University|University of Bristol|208006|7822
+Loughborough University|University of Manchester|154896|6576
+Loughborough University|University of Warwick|65455|2791
+Loughborough University|University of Sheffield|96289|3805
+Loughborough University|University of Nottingham|24256|1745
+Loughborough University|University of Southampton|242559|9356
+Loughborough University|University of Durham|255165|9032
+Loughborough University|University of Leeds|149028|5898
+Loughborough University|University of York|164493|5996
+Loughborough University|Newcastle University|281338|10038
+Loughborough University|University of Liverpool|172587|6802
+Loughborough University|Cardiff University|250345|9285
+Loughborough University|Lancaster University|218719|8153
+Loughborough University|University of Exeter|323947|11898
+Loughborough University|University of Bath|227841|8821
+Loughborough University|University of Sussex|282432|10296
+Loughborough University|University of Leicester|21038|1615
+Loughborough University|University of Reading|217488|7981
+Loughborough University|University of Dundee|592350|20612
+Loughborough University|University of East Anglia|244142|9668
+Loughborough University|University of Surrey|215107|7700
+Loughborough University|Coventry University|58007|2660
+Loughborough University|Aston University|64952|3044
+Loughborough University|University of Kent|244098|9115
