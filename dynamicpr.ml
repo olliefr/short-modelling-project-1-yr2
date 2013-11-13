@@ -22,19 +22,22 @@ let extract k list =
   ("London",    [("Bristol", 193);   ("Cambridge", 117); ("Oxford",  98)]);
   ("Oxford",    [("Bristol", 118);   ("Cambridge", 158); ("London",  98)])
 *)
+(*
 let locations = [
   "Bristol";
   "Cambridge";
   "London";
   "Oxford"
 ]
-
+*)
+(*
 let distance_matrix = [
   [  0;  269;  193;  118];
   [269;    0;  117;  158];
   [193;  117;    0;   98];
   [118;  158;   98;    0]
 ]
+*)
 
 let distance_matrix = [
 [0;	12;	6;	8;	20;	5;	18;	1;	17;	12];
@@ -49,6 +52,7 @@ let distance_matrix = [
 [12;	3;	2;	16;	2;	19;	14;	10;	4;	0]
 ]
 
+(*
 let distance_matrix = [
 [0;	26;	34;	51;	16;	12;	59;	33;	7;	11;	38;	31;	14;	46;	52;	12;	20;	25;	51;	47];
 [26;	0;	55;	49;	8;	41;	42;	36;	58;	11;	53;	23;	36;	16;	57;	57;	28;	20;	36;	20];
@@ -72,7 +76,7 @@ let distance_matrix = [
 [47;	20;	42;	16;	41;	50;	60;	43;	20;	28;	49;	30;	32;	28;	41;	14;	60;	29;	16;	0]
 ]
 
-
+*)
 
 let cost k j = List.nth_exn (List.nth_exn distance_matrix j) k
 
@@ -162,10 +166,14 @@ let complete_routes = List.map long_routes_only
   ~f:(fun ((_,_), (distance, route)) -> 
     (distance + (cost (List.last_exn route) 0), route @ [0]))
 
-let best_route = 
+let best_routes = 
   List.sort complete_routes
     ~cmp:(fun (dist1, _) (dist2, _) -> 
       if dist1 = dist2 then 0
       else if dist1 < dist2 then -1
       else 1
     )
+
+(* FIXME is there a better way to print a list of numbers joined by space? *)
+let () = List.iter best_routes ~f:(fun (distance, route) -> printf "%i: %s\n" 
+  distance (String.concat ~sep:" " (List.map route ~f:(fun x -> sprintf "%i" (x+1)))))
