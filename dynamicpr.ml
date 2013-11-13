@@ -16,12 +16,7 @@ let extract k list =
   aux k [] emit list
 
 (* TODO read the distances from a file *)
-(*
-  ("Bristol",   [("Cambridge", 269); ("London", 193);    ("Oxford", 118)]);
-  ("Cambridge", [("Bristol", 269);   ("London", 117);    ("Oxford", 158)]);
-  ("London",    [("Bristol", 193);   ("Cambridge", 117); ("Oxford",  98)]);
-  ("Oxford",    [("Bristol", 118);   ("Cambridge", 158); ("London",  98)])
-*)
+
 (*
 let locations = [
   "Bristol";
@@ -30,6 +25,7 @@ let locations = [
   "Oxford"
 ]
 *)
+
 (*
 let distance_matrix = [
   [  0;  269;  193;  118];
@@ -39,20 +35,22 @@ let distance_matrix = [
 ]
 *)
 
-let distance_matrix = [
-[0;	12;	6;	8;	20;	5;	18;	1;	17;	12];
-[12;	0;	11;	4;	11;	1;	15;	12;	14;	3];
-[6;	11;	0;	11;	2;	11;	9;	5;	9;	2];
-[8;	4;	11;	0;	8;	4;	9;	7;	20;	16];
-[20;	11;	2;	8;	0;	8;	13;	3;	11;	2];
-[5;	1;	11;	4;	8;	0;	12;	15;	6;	19];
-[18;	15;	9;	9;	13;	12;	0;	13;	9;	14];
-[1;	12;	5;	7;	3;	15;	13;	0;	20;	10];
-[17;	14;	9;	20;	11;	6;	9;	20;	0;	4];
-[12;	3;	2;	16;	2;	19;	14;	10;	4;	0]
-]
-
 (*
+let distance_matrix = [
+  [0;	12;	6;	8;	20;	5;	18;	1;	17;	12];
+  [12;	0;	11;	4;	11;	1;	15;	12;	14;	3];
+  [6;	11;	0;	11;	2;	11;	9;	5;	9;	2];
+  [8;	4;	11;	0;	8;	4;	9;	7;	20;	16];
+  [20;	11;	2;	8;	0;	8;	13;	3;	11;	2];
+  [5;	1;	11;	4;	8;	0;	12;	15;	6;	19];
+  [18;	15;	9;	9;	13;	12;	0;	13;	9;	14];
+  [1;	12;	5;	7;	3;	15;	13;	0;	20;	10];
+  [17;	14;	9;	20;	11;	6;	9;	20;	0;	4];
+  [12;	3;	2;	16;	2;	19;	14;	10;	4;	0]
+]
+*)
+
+
 let distance_matrix = [
 [0;	26;	34;	51;	16;	12;	59;	33;	7;	11;	38;	31;	14;	46;	52;	12;	20;	25;	51;	47];
 [26;	0;	55;	49;	8;	41;	42;	36;	58;	11;	53;	23;	36;	16;	57;	57;	28;	20;	36;	20];
@@ -76,7 +74,6 @@ let distance_matrix = [
 [47;	20;	42;	16;	41;	50;	60;	43;	20;	28;	49;	30;	32;	28;	41;	14;	60;	29;	16;	0]
 ]
 
-*)
 
 let cost k j = List.nth_exn (List.nth_exn distance_matrix j) k
 
@@ -88,24 +85,17 @@ Map; (S : int set, k : int) -> (distance : int, path : int list)
 *)
 
 (* FIXME using Map is more efficient *)
-(* FIXME try simple assoc list first *)
-(*
-let subroutes = [
-  ([0; 1], 1), (269, [0; 1])
-]
-*)
-
+(* FIXME is using Set easy? *)
 (* the base cases where final destination j=0,
    aka all paths of length one starting from 
-   the vertex 0 *)
-let subroutes = 
-(*
-  let t1 = List.Assoc.add [] ([0; 1], 1) (5, [0; 1]) in
-  let t2 = List.Assoc.add t1 ([0; 2], 2) (7, [0; 2]) in
-  let t3 = List.Assoc.add t2 ([0; 3], 3) (9, [0; 3]) in
-  t3
+   the vertex 0. 
+   
+   the format is
+   ([0; 1], 1), (269, [0; 1])
+   (([set of visited cities], current_city), 
+   (total distance from 1 to current city,[the route - ordered list])
 *)
-(* FIXME how to create assoc list from indices? *)
+let subroutes = 
   List.tl_exn (
     List.mapi (List.hd_exn distance_matrix)
       ~f:(fun i e -> (([0; i], i), (e, [0; i])))
@@ -144,6 +134,7 @@ let solve_subproblem_for_given_s subroutes s =
     ~f:solve_subproblem_for_given_s_and_j
 
 let solve_subproblem subroutes m = 
+  let () = eprintf "solve_subproblem %i...\n%!" m in
   let s = extract m (List.range 1 n) in
   List.fold_left
     s
