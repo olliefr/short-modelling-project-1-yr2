@@ -8,10 +8,12 @@ type t
 (** The empty data structure *)
 val empty : t
 
-(** Store a solution to a subproblem *)
+(** Store a solution to a subproblem.
+    FIXME why expose Key.t? why cannot leave (int list * int)? *)
 val add : t -> (int list * int) -> (int * int list) -> t
 
-(** Find a solution to a subproblem *)
+(** Find a solution to a subproblem 
+    FIXME why expose Key.t? why cannot leave (int list * int)? *)
 val find : t -> (int list * int) -> (int * int list) option
 
 (** Convert the data structure to an association list.
