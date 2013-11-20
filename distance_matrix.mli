@@ -17,6 +17,9 @@ val add : t -> string -> string -> int -> t
 (** The cost of moving from node j to node k *)
 val cost : t -> int -> int -> int
 
+(** Return the list of names of all nodes in the matrix *)
+val names : t -> string list
+
 (** Return the name of the node with given number *)
 val name : t -> int -> string
 

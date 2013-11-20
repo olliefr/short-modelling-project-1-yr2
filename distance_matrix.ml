@@ -37,6 +37,8 @@ let cost {destinations; _} origin destination =
     | None -> failwith (sprintf "%i to %i" origin destination)
     | Some distance -> distance
 
+let names {names;_} = names
+
 (* FIXME return option? *)
 let name {names; _} location =
   List.nth_exn names location

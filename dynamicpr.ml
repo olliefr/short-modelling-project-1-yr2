@@ -78,6 +78,9 @@ let print t =
   List.iter t ~f:(fun (distance, route) -> printf "%i: %s\n" 
     distance (String.concat ~sep:" " (List.map route ~f:(fun x -> sprintf "%i" (x+1)))))
 
+let print_legend matrix =
+  List.iteri (Distance_matrix.names matrix)
+    ~f:(fun i x -> printf "%i: %s\n%!" (i+1) x)
 
 (* main *)
 let command =
@@ -101,16 +104,19 @@ let command =
       let n = Distance_matrix.length matrix in  (* problem size *)
       let ms = List.range 2 n in                (* list of all subproblems *)
       let () = eprintf "solving for n = %i\n%!" n in
-      List.fold_left 
-	ms 
-	~init:(subroutes matrix)
-	~f:(fun subroutes m -> solve_subproblem matrix subroutes m)
+      let result = 
+	List.fold_left 
+	  ms 
+	  ~init:(subroutes matrix)
+	  ~f:(fun subroutes m -> solve_subproblem matrix subroutes m)
 	|> Subroutes.to_list
 	|> List.map ~f:(fun ((_,_), x) -> x)
 	|> (filter (Distance_matrix.length matrix))
 	|> (add_last_hop matrix)
 	|> sort
-	|> print
+      in
+      print result;
+      print_legend matrix
     )
 
 let () = Command.run command
