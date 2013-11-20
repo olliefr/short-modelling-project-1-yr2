@@ -44,9 +44,9 @@ let command =
 	(Set.mem cluster origin) && (Set.mem cluster destination)) in
       printf "The cluster matrix size is %i\n%!" (List.length cluster_matrix);
       Out_channel.with_file clustermatrixf ~f:(fun oc ->
-	List.iter cluster_matrix ~f:(fun {origin;destination;distance;_} ->
+	List.iter cluster_matrix ~f:(fun {origin;destination;distance;duration} ->
 	  Out_channel.output_string oc
-	    (sprintf "%s -> %s : %i\n%!" origin destination distance)))
+	    (sprintf "%s|%s|%i|%i\n%!" origin destination distance duration)))
     )
 
 let () = Command.run command

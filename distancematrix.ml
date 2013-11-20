@@ -19,6 +19,7 @@ type route = {
 
 (** Input/Output related functions *)
 (* prune any whitespace-only or empty lines from the input *)
+(* FIXME this is used in other files, move into utilities? *)
 let prune list = 
   list
   |> List.map ~f:String.strip
