@@ -4,7 +4,7 @@ by Ollie Frolovs, 2013.
 
 This is a set of tools i built to help my team with the project. Each tool is described in its respective section below.
 
-*NB* I'm only a beginner `OCaml` programmer and writing those tools was a 'here be dragons' experience for me. Suggestions and improvements on my OCaml style are welcome.
+I'm only a beginner OCaml programmer and writing those tools was a 'here be dragons' experience for me. Suggestions and improvements on my OCaml style are welcome.
 
 ## google_distance_matrix_query
 
@@ -17,7 +17,7 @@ This tool downloads the distances and durations for a list of trips between the 
 > 
 > The number of origins times the number of destinations defines the number of elements.
 
-*NB* The following restriction is not checked by this tool. Passing of long URLs to Google Distance Matrix API will result in error code being returned by the API.
+The following restriction is not checked by this tool. Passing of long URLs to Google Distance Matrix API will result in error code being returned by the API.
 > Distance Matrix API URLs are restricted to approximately 2000 characters, after URL encoding.
 
 ## clusterise
